@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **redashabbir00@gmail.com**
 
+[![rida702's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rida702&theme=react-dark)](https://github.com/rida702)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
