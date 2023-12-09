@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rida Shabbir
 ====================================================================================================================================
 
-Django Developer
+Software Engineer
 ----------------
 
-I am a Computer Science Student, Currently in my 6th Semester. I am interested in Coding, Web Development and AI.
+I am a Computer Science Student, Currently in my 6th Semester. I am interested in Coding, Web Development, and AI.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [redashabbir00@gmail.com](mailto:redashabbir00@gmail.com)
