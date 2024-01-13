@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------
 
-I am a Computer Science Student, Currently in my 6th Semester. I am interested in Coding, Web Development, and AI.
+I am a Computer Science Student, Currently in my 8th Semester. I am interested in Coding, Web Development, and AI.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [redashabbir00@gmail.com](mailto:redashabbir00@gmail.com)
