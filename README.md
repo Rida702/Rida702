@@ -15,11 +15,11 @@ Working as a Full Stack Developer, building with Django/DRF on the backend and R
 
 ### Tech Stack
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, HTML/CSS
-**Mobile:** React Native, Expo
-**Backend:** Python, Django, Django REST Framework, PostgreSQL, SQL
-**AI/ML:** LangChain, RAG pipelines, LLM integrations
-**Tooling:** Docker, Git, AWS EC2, Stripe
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML/CSS
+- **Mobile:** React Native, Expo
+- **Backend:** Python, Django, Django REST Framework, PostgreSQL, SQL
+- **AI/ML:** LangChain, RAG pipelines, LLM integrations
+- **Tooling:** Docker, Git, AWS EC2, Stripe
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -36,7 +36,4 @@ Working as a Full Stack Developer, building with Django/DRF on the backend and R
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Rida702"><img src="https://github-readme-stats.vercel.app/api?username=Rida702&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Rida702's GitHub stats" /></a>
-<a href="http://www.github.com/Rida702"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida702&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
-
-<a href="https://github.com/Rida702"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida702&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
+![Metrics](./metrics.svg)
